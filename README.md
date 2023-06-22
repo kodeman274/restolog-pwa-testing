@@ -2,7 +2,8 @@
 ## Submission Katalog-Restoran : Restolog-PWA-Testing
 ## Demo
 
-https://github.com/kodeman274/hilman-webprofil.github.io/assets/99820483/27122356-ed57-4888-982a-bac71e78f337
+![Deskripsi Gambar]([URL_Gambar](https://github.com/kodeman274/hilman-webprofil.github.io/assets/99820483/27122356-ed57-4888-982a-bac71e78f337
+))
 
 1. Halaman Utama (Daftar Restoran)
 Syarat:
