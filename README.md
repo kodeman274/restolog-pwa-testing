@@ -1,7 +1,7 @@
 # 
 ## Submission Katalog-Restoran : Restolog-PWA-Testing
 ## Demo
-![restolunch]([https://github.com/username/repository/blob/main/images/logo.png])
+![restolunch] (https://github.com/username/repository/blob/main/images/logo.png](https://github-production-user-asset-6210df.s3.amazonaws.com/99820483/247940438-27122356-ed57-4888-982a-bac71e78f337.png)
 1. Halaman Utama (Daftar Restoran)
 Syarat:
 
