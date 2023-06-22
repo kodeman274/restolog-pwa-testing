@@ -4,6 +4,7 @@
 
 <img width="1709" alt="Screen Shot 2023-06-22 at 20 10 51" src="https://github.com/kodeman274/restolog-pwa-testing/assets/99820483/93ad7fff-f482-4816-ac74-5e7085721a45">
 
+## Syarat Submission
 1. Halaman Utama (Daftar Restoran)
 Syarat:
 
