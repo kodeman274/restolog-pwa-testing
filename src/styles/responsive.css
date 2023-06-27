@@ -1,6 +1,6 @@
 @media screen and (max-width: 650px) {
   .hero {
-    background-image: url(../public/images/heros-small.jpg);
+    background-image: url(../public/images/hero-small.jpg);
   }
   .restaurant {
     grid-template-columns: auto 1fr;
@@ -72,7 +72,7 @@
 
 @media screen and (min-width: 800px) {
   .hero {
-    background-image: url(../public/images/heroo.jpg);
+    background-image: url(../public/images/hero.jpg);
   }
   .app-bar .app-bar__brand h1 {
     font-size: 2em;
