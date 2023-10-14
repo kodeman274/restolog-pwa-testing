@@ -1,7 +1,7 @@
 # 
 ## Submission Katalog-Restoran : Restolog-PWA-Testing
 
-<img width="1709" alt="Screen Shot 2023-06-22 at 20 10 51" src="https://github.com/kodeman274/restolog-pwa-testing/assets/99820483/93ad7fff-f482-4816-ac74-5e7085721a45">
+<img width="916" alt="portofolio4" src="https://github.com/kodeman274/restolog-pwa-testing/assets/99820483/f43d4073-fbdb-4155-b1a4-ea00e30d304b">
 
 ## Syarat Submission
 1. Halaman Utama (Daftar Restoran)
